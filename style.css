@@ -1,0 +1,14 @@
+.jumbotron{
+    text-align: center;
+}
+
+.card{
+    text-align: center;
+}
+
+.card-body{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
